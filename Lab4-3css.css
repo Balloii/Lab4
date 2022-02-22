@@ -1,0 +1,10 @@
+.outside{
+    background-color: lightcoral;
+}
+.inside {
+    background-color: lightpink;
+    margin: 20px;
+}
+.button {
+    text-align: center;
+}
